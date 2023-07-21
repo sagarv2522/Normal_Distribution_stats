@@ -15,4 +15,7 @@ A histogram is a graphical representation of the distribution of data. It is a t
 
 In below image is the distribution of our data using Seaborn library
 
-!(
+![normal distribution-graph](https://github.com/sagarv2522/Normal_Distribution_stats/assets/109810639/c38ef606-21ba-4827-b901-dbe9ab709fbc)
+
+### **Empirical Rule** :
+
