@@ -45,5 +45,8 @@ For more visit the documentation [scipy.stats.zscore](https://docs.scipy.org/doc
 **Scinario**
 Imagine you are a member of an analytics team for the United States Environmental Protection Agency (EPA). The data includes information about more than 200 sites, identified by state, county, city, and local site names. One of your main goals is to determine which regions need support to make air quality improvements. Given that carbon monoxide is a major air pollutant, you will investigate data from the Air Quality Index (AQI) with respect to carbon monoxide.
 
+### **License** :
+This Repository is under BSD 3-Clause License
+
 
   
