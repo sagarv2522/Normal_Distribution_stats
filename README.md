@@ -5,5 +5,7 @@
 
 # Steps of Normal Distribution
 
+1. Plot the Histogram
+2. Apply the 
 
  
