@@ -18,4 +18,27 @@ In below image is the distribution of our data using Seaborn library
 ![normal distribution-graph](https://github.com/sagarv2522/Normal_Distribution_stats/assets/109810639/c38ef606-21ba-4827-b901-dbe9ab709fbc)
 
 ### **Empirical Rule** :
+The empirical rule states that, for every normal distribution
 
+1. 68% of the data fall within 1 standard deviation of the mean
+2. 95% of the data fall within 2 standard deviations of the mean
+3. 99.7% of the data fall within 3 standard deviations of the mean
+
+![Empirical rule](https://github.com/sagarv2522/Normal_Distribution_stats/assets/109810639/05259c72-81a8-42b3-aa66-94fe66c02106)
+
+### **Z-score** :
+A measure of how many standard deviations below or above the population mean a data point is
+
+ * The Z-score is 0 if the value is equal to the mean
+ * The Z-score is positive if the value is greater than the mean
+ * The Z-score is negative if the value is less than the mean
+
+Mathematical Formula is below
+
+![z-score-formula](https://github.com/sagarv2522/Normal_Distribution_stats/assets/109810639/eebf7713-b772-42fd-b9bd-a7b17fcfd142)
+
+But, we can use a Pre-defined function using Scipy Library
+
+For more visit the documentation [scipy.stats.zscore](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html)
+
+### **About Dataset**
