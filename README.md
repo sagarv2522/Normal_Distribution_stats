@@ -7,7 +7,7 @@
 </p>
 
 
- ### **Normal Distribution** : 
+ ## **Normal Distribution** : 
  A continuous probability distribution that is symmetrical on both sides of the mean and bell-shaped. Also is used to analyze data when there is an equally likely chance of being above or below the mean for continuous data whose histogram fits a bell curve. Statisticians refer to the normal curve as the Gaussian Probability Distribution, named after Gauss.
 
 # Steps of Normal Distribution
@@ -17,14 +17,14 @@
 3. Calculate the Z-score
 4. Report the Insights
 
-### **Histogram** 📈 :
+## **Histogram** 📈 :
 A histogram is a graphical representation of the distribution of data. It is a type of bar chart that shows the frequency of data points within a range of values. The bars of a histogram are typically of equal width, and the height of each bar represents the number of data points that fall within that range.
 
 In below image is the distribution of our data using Seaborn library
 
 ![normal distribution-graph](https://github.com/sagarv2522/Normal_Distribution_stats/assets/109810639/c38ef606-21ba-4827-b901-dbe9ab709fbc)
 
-### **Empirical Rule** :
+## **Empirical Rule** :
 The empirical rule states that, for every normal distribution
 
 1. 68% of the data fall within 1 standard deviation of the mean
@@ -33,7 +33,7 @@ The empirical rule states that, for every normal distribution
 
 ![Empirical rule](https://github.com/sagarv2522/Normal_Distribution_stats/assets/109810639/05259c72-81a8-42b3-aa66-94fe66c02106)
 
-### **Z-score** :
+## **Z-score** :
 A measure of how many standard deviations below or above the population mean a data point is
 
  * The Z-score is 0 if the value is equal to the mean
@@ -48,11 +48,11 @@ But, we can use a Pre-defined function using Scipy Library
 
 For more visit the documentation [scipy.stats.zscore](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.zscore.html)
 
-### **Description**
+## **Description**
 **Scinario**
 Imagine you are a member of an analytics team for the United States Environmental Protection Agency (EPA). The data includes information about more than 200 sites, identified by state, county, city, and local site names. One of your main goals is to determine which regions need support to make air quality improvements. Given that carbon monoxide is a major air pollutant, you will investigate data from the Air Quality Index (AQI) with respect to carbon monoxide.
 
-### **License** :
+## **License** :
 This Repository is under BSD 3-Clause License
 
 
