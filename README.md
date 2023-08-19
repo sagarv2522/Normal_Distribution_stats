@@ -1,10 +1,11 @@
 # Normal Distribution Analysis
 
 <p align="right">
-  <a href="https://colab.research.google.com/github/username/repo/blob/main/notebook.ipynb">
+  <a href="https://colab.research.google.com/drive/17tQ3NnkS4baiyS5ADlptntiq9bZHG4vw#scrollTo=aEXG76psy4EJ">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
   </a>
 </p>
+
 
  ### **Normal Distribution** : 
  A continuous probability distribution that is symmetrical on both sides of the mean and bell-shaped. Also is used to analyze data when there is an equally likely chance of being above or below the mean for continuous data whose histogram fits a bell curve. Statisticians refer to the normal curve as the Gaussian Probability Distribution, named after Gauss.
