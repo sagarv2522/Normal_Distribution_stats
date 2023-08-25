@@ -1,7 +1,7 @@
 # Normal Distribution Analysis
 
 <p align="right">
-  <a href="https://colab.research.google.com/drive/17tQ3NnkS4baiyS5ADlptntiq9bZHG4vw#scrollTo=aEXG76psy4EJ">
+  <a href="https://drive.google.com/file/d/1SWRf2pocN0nTmjtElMgRD64YG86dd7gk/view?usp=sharing">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
   </a>
 </p>
