@@ -1,10 +1,18 @@
 # Normal Distribution Analysis
 
-<p align="right">
-  <a href="https://colab.research.google.com/drive/1SWRf2pocN0nTmjtElMgRD64YG86dd7gk#scrollTo=7CbBgCm3x3-D">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
-  </a>
-</p>
+<div align="left">
+
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300768B?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=flat-square&logo=scipy&logoColor=white)](https://www.scipy.org/)
+
+<a href="https://colab.research.google.com/drive/1SWRf2pocN0nTmjtElMgRD64YG86dd7gk#scrollTo=7CbBgCm3x3-D">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Code">
+</a>
+
+</div>
 
 
  ## **Normal Distribution** : 
